@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saivardhan18
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning machine learning
+- 👀 Software Development Enthusiast
+- 🌱 I’m currently learning Webscraping
 - 📫 How to reach me saivardhan11111@gmail.com
 
 <!---
